@@ -34,20 +34,20 @@ The solution is an interactive, multi-layered dashboard that provides real-time 
 
 **Problem Statement**
 Supply chains involve many stakeholders—manufacturers, suppliers, logistics, and customers. Without proper tracking, companies face:
-🔁 High inventory costs due to poor stock visibility
-🏭 Delays from supplier and manufacturing inefficiencies
-🚚 Rising transportation expenses from suboptimal routing
-🔍 Lack of real-time transparency across the chain
+- High inventory costs due to poor stock visibility
+- Delays from supplier and manufacturing inefficiencies
+- Rising transportation expenses from suboptimal routing
+- Lack of real-time transparency across the chain
 
 ✅ **Solution:** Interactive Power BI Dashboard
 The final deliverable is a comprehensive dashboard with:
 
 **Section	Features**
-Executive Summary	KPIs, trends, high-level insights
-Manufacturing Analysis	Production volumes by time, bottlenecks
-Supplier Analysis	Shipping costs, performance, lead times
-Inventory Analysis	Stock levels by category, reorder points
-Customer Insights	Product popularity by demographics
+1) Executive Summary	KPIs, trends, high-level insights
+2) Manufacturing Analysis	Production volumes by time, bottlenecks
+3) Supplier Analysis	Shipping costs, performance, lead times
+4) Inventory Analysis	Stock levels by category, reorder points
+5) Customer Insights	Product popularity by demographics
 
 **Sample Insight**
 - Most sales came from female customers → future products can target this demographic.
@@ -55,16 +55,16 @@ Customer Insights	Product popularity by demographics
 - Delays were concentrated around Supplier B, suggesting need for renegotiation or replacement.
 
 **Business Impact**
-💸 Cost Reduction: Lower transportation and inventory overhead
-🚚 Faster Delivery: Reduced lead times and better supplier alignment
-✅ Fewer Stockouts: Optimized inventory levels
-📈 Scalable: Dashboard can be extended to other departments or locations
+- Cost Reduction: Lower transportation and inventory overhead
+- Faster Delivery: Reduced lead times and better supplier alignment
+- Fewer Stockouts: Optimized inventory levels
+- Scalable: Dashboard can be extended to other departments or locations
 
 **📌 Conclusion**
 Using Power BI for supply chain analytics enables:
-Real-time, data-driven decisions
-Proactive issue resolution
-Clear visibility across operations
-Sustainable long-term planning
+- Real-time, data-driven decisions
+- Proactive issue resolution
+- Clear visibility across operations
+- Sustainable long-term planning
 
 This project demonstrates how data visualization + analytics can directly improve supply chain efficiency, reduce cost, and boost customer satisfaction.
